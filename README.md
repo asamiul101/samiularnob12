@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiularnob12
+- 👋 Hi, I’m Samiul Ahmed
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning unreal engine
 - 💞️ I’m looking to collaborate on any front end or back end work
